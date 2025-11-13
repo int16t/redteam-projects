@@ -1,0 +1,24 @@
+# Red Team Projects
+This repository contains programs that are base to develop some Red Team skills.
+
+## Projects Structure
+```
+  .
+  ├─ README.md
+  ├── Advanced_Network/
+  ├── Basic/
+  │   ├── chat_server/
+  │   │   ├── Multithread/
+  │   │   ├── TCP/
+  │   │   │   ├── client.c
+  │   │   │   └── server.c
+  │   │   └── UDP/
+  │   │       ├── client.c
+  │   │       └── server.c
+  │   ├── cryptography/
+  │   └── file_transfer/
+  ├── Essencial/
+  ├── Payloads/
+  ├── Post_exploitation/
+  └─ .gitignore
+```
