@@ -9,6 +9,8 @@ This repository contains programs that are base to develop some Red Team skills.
   ├── Basic/
   │   ├── chat_server/
   │   │   ├── Multithread/
+  │   │   │   ├── client.c
+  │   │   │   └── server.c
   │   │   ├── TCP/
   │   │   │   ├── client.c
   │   │   │   └── server.c
