@@ -24,7 +24,7 @@ This repository contains programs that are base to develop some Red Team skills.
   │   │   └── webshell.c
   │   └── file_transfer/
   │       └── ft.c
-  ├── Essencial/
+  ├── Essential/
   │   └── cryptography/
   │       ├── rsa.c
   │       └── aes.c 
