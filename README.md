@@ -19,13 +19,15 @@ This repository contains programs that are base to develop some Red Team skills.
   │   │       └── server.c
   │   ├── cryptography/
   │   │       ├── monoalphabetic.c
-  │   │       ├── xor.c
-  │   │       ├── rsa.c
-  │   │       └── aes.c      
+  │   │       └── xor.c     
   │   ├── webshell/
   │   │       └── webshell.c
   │   └── file_transfer/
+  │       └── ft.c
   ├── Essencial/
+  │   └── cryptography/
+  │       ├── rsa.c
+  │       └── aes.c 
   ├── Payloads/
   ├── Post_exploitation/
   └─ .gitignore
