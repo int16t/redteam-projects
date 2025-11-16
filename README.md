@@ -18,6 +18,12 @@ This repository contains programs that are base to develop some Red Team skills.
   │   │       ├── client.c
   │   │       └── server.c
   │   ├── cryptography/
+  │   │       ├── monoalphabetic.c
+  │   │       ├── xor.c
+  │   │       ├── rsa.c
+  │   │       └── aes.c      
+  │   ├── webshell/
+  │   │       └── webshell.c
   │   └── file_transfer/
   ├── Essencial/
   ├── Payloads/
