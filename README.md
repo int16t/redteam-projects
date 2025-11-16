@@ -1,5 +1,21 @@
 # Red Team Projects
-This repository contains programs that are base to develop some Red Team skills.
+
+This repository contains tools and experiments for offensive security research in controlled environments. The material is intended for study, authorized testing, and professional training.
+
+## Legal Notice
+
+Usage is limited to **authorized** security testing and lab environments.  
+Any unauthorized exploitation of systems or data is illegal and entirely the responsibility of the user.
+
+No guarantees are provided regarding stability, safety, or fitness for any purpose.  
+The author assumes no liability for misuse, damages, or legal consequences.
+
+## Safe Use
+
+- run only in isolated or virtualized environments;  
+- ensure written authorization before testing external systems.
+
+---
 
 ## Projects Structure
 ```
