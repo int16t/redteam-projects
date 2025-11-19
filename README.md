@@ -48,3 +48,5 @@ The author assumes no liability for misuse, damages, or legal consequences.
   ├── Post_exploitation/
   └─ .gitignore
 ```
+## License
+This project is licensed under the Apache 2.0 License.
